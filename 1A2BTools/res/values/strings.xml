@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">1A2B 猜數字遊戲工具</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="guess">猜!</string>
+    <string name="reset">重來!</string>
+
+</resources>

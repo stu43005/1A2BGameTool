@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_numlist">
+        <item >123</item>
+        <item >124</item>
+        <item >125</item>
+        <item >126</item>
+        <item >127</item>
+        <item >128</item>
+        <item >129</item>
+    </string-array>
+    
+</resources>
